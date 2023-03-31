@@ -7,6 +7,7 @@ import github from "./github.png";
 import linkedin from "./linkedin.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import introduction from "./introduction.png";
 
 import css from "./tech/css.png";
 import git from "./tech/git.png";
@@ -46,5 +47,6 @@ export {
   reactjs,
   tailwind,
   portfolioWebsite,
+  introduction,
   passwordGenerator,
 };

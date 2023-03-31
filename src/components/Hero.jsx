@@ -3,6 +3,7 @@ import React from "react";
 import Typed from "react-typed";
 
 import { styles } from "../styles";
+import { introduction } from "../assets";
 
 const Hero = () => {
   return (
@@ -34,8 +35,8 @@ const Hero = () => {
       </div>
       <div className="">
         <img
-          src="../src/assets/introduction.svg"
-          alt="Intro"
+          src={introduction}
+          alt="Introduction"
           style={{
             position: "absolute",
             width: "850px",
