@@ -13,4 +13,4 @@ I wanted to start learning, how to create Web Applications. After some research,
 
 
 ## Credits
-The Code is based on the public GitHub project [3D Developer Portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio).
+The Code is based on the public GitHub project [3D Developer Portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio) by @adrianhajdin.
