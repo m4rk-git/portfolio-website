@@ -7,6 +7,7 @@ import Education from "./Education";
 import Experience from "./Experience";
 import Works from "./Works";
 import Feedbacks from "./spare/Feedbacks";
+import Certificates from "./Certificates";
 import Contact from "./Contact";
 
 export {
@@ -17,6 +18,7 @@ export {
   Education,
   Experience,
   Works,
+  Certificates,
   Feedbacks,
   Contact,
   EarthCanvas,

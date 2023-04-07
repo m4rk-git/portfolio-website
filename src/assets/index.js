@@ -25,6 +25,9 @@ import aixsolution from "./company/aixsolution.png";
 import passwordGenerator from "./passwordGenerator.png";
 import portfolioWebsite from "./portfolioWebsite.png";
 
+import CompleteBeginner from "./Certificates/CompleteBeginnerLearningPath.png";
+import CompTIAPentest from "./Certificates/CompTIAPentestPlus.png";
+
 export {
   logo,
   linkedin,
@@ -49,4 +52,6 @@ export {
   portfolioWebsite,
   introduction,
   passwordGenerator,
+  CompleteBeginner,
+  CompTIAPentest,
 };

@@ -15,6 +15,8 @@ import {
   rwth,
   passwordGenerator,
   portfolioWebsite,
+  CompleteBeginner,
+  CompTIAPentest,
 } from "../assets";
 
 export const navLinks = [
@@ -217,6 +219,17 @@ const projects = [
   },
 ];
 
+const certificates = [
+  {
+    name: "Complete Beginner Learning Path",
+    image: CompleteBeginner,
+  },
+  {
+    name: "CompTIA Pentest+",
+    image: CompTIAPentest,
+  },
+];
+
 export {
   services,
   technologies,
@@ -224,4 +237,5 @@ export {
   experiences,
   testimonials,
   projects,
+  certificates,
 };
