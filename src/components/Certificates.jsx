@@ -34,23 +34,22 @@ const Certificates = () => {
       </motion.p>
       <motion.div
         variants={fadeIn("up", "spring", 0.5, 0.75)}
-        className="pt-5 pb-40"
+        className="pt-5 pb-32 flex justify-center items-center"
       >
         <Carousel
           data={certificates}
           time={2000}
           radius="10px"
           height="100%"
-          width="100%"
+          width="800px"
           slideNumber={false}
           captionPosition="bottom"
           automatic={false}
-          captionStyle={captionStyle}
           dots={true}
           pauseIconColor="white"
           pauseIconSize="40px"
-          slideBackgroundColor="darkgrey"
-          slideImageFit="cover"
+          slideBackgroundColor="#050816"
+          slideImageFit="contain"
           thumbnails={true}
           thumbnailWidth="150px"
           style={{
