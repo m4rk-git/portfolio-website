@@ -27,6 +27,8 @@ import portfolioWebsite from "./portfolioWebsite.png";
 
 import CompleteBeginner from "./Certificates/CompleteBeginnerLearningPath.png";
 import CompTIAPentest from "./Certificates/CompTIAPentestPlus.png";
+import celonisFoundations from "./Certificates/celonisFoundations.png";
+import academicProcessMiningFundamentals from "./Certificates/academicProcessMiningFundamentals.png";
 
 export {
   logo,
@@ -54,4 +56,6 @@ export {
   passwordGenerator,
   CompleteBeginner,
   CompTIAPentest,
+  celonisFoundations,
+  academicProcessMiningFundamentals,
 };

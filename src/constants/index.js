@@ -12,6 +12,8 @@ import {
   mannheim,
   gerresheim,
   aixsolution,
+  celonisFoundations,
+  academicProcessMiningFundamentals,
   rwth,
   passwordGenerator,
   portfolioWebsite,
@@ -79,7 +81,7 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "git",
+    name: "Git",
     icon: git,
   },
 ];
@@ -93,7 +95,7 @@ const educations = [
     date: "October 2021 - Exp. August 2024",
     points: [
       'Successfully attended courses in "Data structures and Algorithms", "Computability and Complexity" and "Software Engineering"',
-      "Current GPA 1.7 (GER)",
+      "Current GPA 1.7 (GER). Attending the fourth semester.",
     ],
   },
   {
@@ -230,6 +232,17 @@ const certificates = [
   },
 ];
 
+const badges = [
+  {
+    name: "Academic Process Mining Fundamentals",
+    image: academicProcessMiningFundamentals,
+  },
+  {
+    name: "Celonis Foundations",
+    image: celonisFoundations,
+  },
+];
+
 export {
   services,
   technologies,
@@ -238,4 +251,5 @@ export {
   testimonials,
   projects,
   certificates,
+  badges,
 };
